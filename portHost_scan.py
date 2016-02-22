@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# Simple Host Discovering + Portscanning in Python
 
 import scapy.config
 import scapy.layers.l2
