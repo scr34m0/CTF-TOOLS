@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# SCR34M0
 # Usage: ./shellshock http://example.com:PORT/cgi-bin/cgi
 
 target=$1
